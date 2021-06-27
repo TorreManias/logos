@@ -1,4 +1,4 @@
-# LogOS
+# LogOS - WIP
 LogOS - Un sistema operativo de consola elaborado en C a partir de comandos simples. Ejercicio académico.
 
 Con LogOS se logra hacer un pequeño sistema funcional, a base de comandos pequeños (tokens), para tareas académicas.
