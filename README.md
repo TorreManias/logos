@@ -5,3 +5,6 @@ Con LogOS se logra hacer un pequeño sistema funcional, a base de comandos peque
 
 # Idea
 Usar las distintas funciones de las librerías en C para demostrar su utilidad y uso en aplicaciones sencillas para estudiantes de nuevo ingreso en la carreras afines a la programación.
+
+# Funciones
+- Iniciar el OS
